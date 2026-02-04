@@ -1,5 +1,4 @@
 menu:
-- {name: 'people', url: '/people'}
 - {name: 'publications', url: '/publications'}
 - {name: 'courses', url: '/courses'}
 - {name: 'cv', url: '/cv'}
@@ -16,7 +15,7 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'philpeople.png', link: 'https://philpeople.org/profiles/evan-cave'}
+- {icon: '', image: '/assets/img/philpeople.png', link: 'https://philpeople.org/profiles/evan-cave'}
 
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Evan Cave', title: 'PhD Candidate', department: 'Philosophy', institution: 'University of British Columbia', institution_address: '1866 Main Mall, Buchanan E370, Vancouver, BC', email: 'evancave@student.ubc.ca', image: 'assets/img/contact.jpg'}
